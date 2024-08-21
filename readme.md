@@ -1,6 +1,7 @@
 # 🚀 Template web Mh_ProCode01
 
-Selamat datang di **Web mhprocode01**!, free template
+Selamat datang di **Web mhprocode01**!, free template <br>
+proses pembuatan web masih 60%
 
 ## 📋 Table of Contents
 
